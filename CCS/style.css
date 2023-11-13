@@ -1,0 +1,55 @@
+main{
+   background-image: url(../image/download.jfif);
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+}
+.wrapper{
+    display: flex;
+
+}
+nav ul li:hover{
+    transition: 1s;
+   background-color: rgb(38, 225, 238); 
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.gwapo{
+    padding: 50;
+    display: flex;
+    justify-content: center;
+    
+}
+.gwapo img{
+    border-radius: 10px;
+}
+
+h6{
+    color: rgb(251, 251, 252);
+}
+
+
+.bati{
+    text-align: center;
+    background-color:  rgb(57, 145, 245);
+    border-radius: 10px;
+    padding: 20px;
+    
+    box-sizing: border-box 10px;
+}
+
+.col ul li a:hover{
+    background: rgb(105, 226, 241);
+
+}
+.container a:hover{
+    background: rgb(105, 226, 241);
+    color: black;
+}
